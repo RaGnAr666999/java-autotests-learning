@@ -1,1 +1,1 @@
-Learning goal: practice Git branches.
+Learning goal: practice main branch changes.
